@@ -17,7 +17,7 @@
     "react-dom": "^19.0.0",
     "react-router": "^7.2.0",
     "remix-auth": "^4.1.0",
-    "remix-auth-polar": "0.0.3"
+    "remix-auth-polar": "^0.0.4"
   },
   "devDependencies": {
     "@react-router/dev": "^7.2.0",
